@@ -1,16 +1,42 @@
-### Hi there 👋
+# Bienvenidos a mi Github
 
-<!--
-**jonathanaguado22/jonathanaguado22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Mi nombre es Cesar Aguado 
+## También conocido como jonathanaguado22 en GitHub
 
-Here are some ideas to get you started:
+# ¿Quién soy?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Soy un Programador web Fullstack. Apasionado por la programacion, por la tecnologia y el conocimiento en ellas.  :keyboard: :cd: :file_cabinet:
+
+# ¿Qué hago?
+
+- Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como programador. Me fascina poder encontrar la solución a los problemas de la vida con código. :computer:   :robot: :signal_strength: 
+
+# ¿A dónde me dirijo?
+
+- Mi objetivo principal es destacarme en el mundo de la tecnologia. Aprender y mejorar en esta carrera que cada vez se hace mas grande e importante. :page_with_curl: :electric_plug: :floppy_disk: 
+
+- No solo disfruto de la programacion por la cantidad de demanda que hay en el mercado. Sino que realmente me apasiona ampliar mi perspectiva de las cosas que existen en el mundo y encontrar nuevas soluciones a problemas que creíamos ya resueltos.  :inbox_tray:  :mailbox: :fire: 
+
+# ¿Qué tecnologías uso?
+
+ El Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fundamental para despegar 🚀 Por lo que las principales tecnologías que manejo son:
+
+- JavaScript
+- TypeScript
+- React.js 
+- Node.js
+- Express.js
+- PostgreSQL
+- Sequelize
+- Git
+- HTML
+- CSS
+
+
+## No dudes en contactarme!
+
+### Juntos podemos realizar un gran proyecto que cambie la vida de miles de personas
+
+- *Linkedin*: https://www.linkedin.com/in/cesar-jonathan-aguado-martinez-b67905114/
+
+- *Correo*: cesaraguado123@gmail.com
