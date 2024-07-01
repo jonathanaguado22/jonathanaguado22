@@ -1,7 +1,5 @@
 # Bienvenidos a mi Github
 
-## Mi nombre es Cesar Aguado 
-## También conocido como jonathanaguado22 en GitHub
 
 # ¿Quién soy?
 
